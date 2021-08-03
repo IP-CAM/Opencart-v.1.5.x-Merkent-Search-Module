@@ -1,4 +1,4 @@
-merkent-module-login
+merkent-module-search
 ====================
 
-Merkent login module for OpenCart
+Merkent search module for OpenCart
